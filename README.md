@@ -14,7 +14,7 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/
 
 ## FAQ
 https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
-
+<br><br>
 
 10-April-2024
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
