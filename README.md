@@ -6,18 +6,22 @@ Azure AI Translator is a cloud-based machine translation service you can use to 
 
 ### Text Translation
 Execute text translation between supported source and target languages in real time. Create a dynamic dictionary and learn how to prevent translations using the Translator API.
+<br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/text-translation-overview
 
 ### Asynchronous Batch Document Translation
 Translate batch and complex files while preserving the structure and format of the original documents. Create a glossary to use with document translation. The batch translation process requires an Azure Blob storage account with containers for your source and translated documents.
+<br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/overview
 
 ### Synchronous Document translation
 Translate a single document file alone or with a glossary file while preserving the structure and format of the original document. The file translation process doesn't require an Azure Blob storage account. The final response contains the translated document and is returned directly to the calling client.
+<br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/reference/synchronous-rest-api-guide
 
 ### Custom Translator
 Build customized models to translate domain- and industry-specific language, terminology, and style. Create a dictionary (phrase or sentence) for custom translations.
+<br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
 
 ## Documentation
