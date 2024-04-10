@@ -27,7 +27,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator
 ## Documentation
 https://learn.microsoft.com/en-us/azure/ai-services/translator/
 
-## List of languages
+## Language support
 https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
 
 ## Pricing
