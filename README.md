@@ -1,7 +1,6 @@
 # Azure AI Translator demos
 
-Translator Service is a cloud-based neural machine translation service that is part of the Azure AI services family and can be used with any operating system.
-Translator powers many Microsoft products and services used by thousands of businesses worldwide for language translation and other language-related operations.
+Azure AI Translator is a cloud-based machine translation service you can use to translate text and documents with a simple REST API call. The service uses modern neural machine translation technology. The Custom Translator interface allows you to use your translation memory to create customized neural translation systems. The customized translation system can be used to translate text and documents with the Translator service.
 
 ## Documentation
 https://learn.microsoft.com/en-us/azure/ai-services/translator/
