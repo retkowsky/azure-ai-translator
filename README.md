@@ -36,6 +36,9 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/
 ## What's new
 https://learn.microsoft.com/en-us/azure/ai-services/translator/whats-new?tabs=csharp
 
+## Repositories
+https://github.com/orgs/MicrosoftTranslator/repositories
+
 ## FAQ
 https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
 <br><br>
