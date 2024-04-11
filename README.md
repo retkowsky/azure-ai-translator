@@ -10,6 +10,25 @@ Azure AI Translator is a cloud-based machine translation service you can use to 
 <br>
 <img src="webapp2.jpg">
 
+## Notebooks
+1. Azure AI Translator informations
+<a href="1 Azure AI Translator informations.ipynb">Notebook</a>
+
+2. Language detection
+<a href="2 Language detection.ipynb">Notebook</a>
+
+3. Transliterate example
+<a href="3 Transliterate example.ipynb">Notebook</a>
+
+4. Translation
+<a href="4 Translation.ipynb">Notebook</a>
+
+5. Document translation batch
+<a href="5 Document translation batch.ipynb">Notebook</a>
+
+6. Synchronous Document Translation
+<a href="6 Synchronous Document Translation.ipynb">Notebook</a>
+
 ## Azure AI features
 
 ### 1. Text Translation
