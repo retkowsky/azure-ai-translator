@@ -16,6 +16,8 @@ Azure AI Translator is a cloud-based machine translation service you can use to 
 6. Synchronous Document Translation
 <a href="6 Synchronous Document Translation.ipynb">Notebook</a>
 
+Note: you need to update the azure.env file with your Azure AI Translator informations.
+
 ## An exemple of a custom webapp for text translation
 <br>
 <img src="webapp1.jpg">
