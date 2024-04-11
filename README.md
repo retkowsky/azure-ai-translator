@@ -4,6 +4,9 @@
 The service uses modern **neural machine translation technology**.<br><br>
 This service can do **asynchronous batch document translation** and **synchronous document translation.**<br>
 The **Custom Translator interface** allows you to use your translation memory to create **customized neural translation systems**. The customized translation system can be used to translate text and documents with the Translator service.<br><br>
+More than 100 languages are recognized.<br>
+
+
 https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br>
 
 ## Python notebooks
