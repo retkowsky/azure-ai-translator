@@ -1,22 +1,10 @@
 # Azure AI Translator demos
 
 **Azure AI Translator** is a cloud-based machine translation service you can use to translate text and documents with a **simple REST API call**.<br>
-The service uses modern **neural machine translation technology**.<br>
+The service uses modern **neural machine translation technology**.<br><br>
+This service can do **asynchronous batch document translation** and **synchronous document translation.**<br>
 The **Custom Translator interface** allows you to use your translation memory to create **customized neural translation systems**. The customized translation system can be used to translate text and documents with the Translator service.<br><br>
 https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br>
-
-# Features
-- Text Translation<br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/text-translation-overview
-
-- Asynchronous Batch Document Translation<br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/overview
-
-- Synchronous Document translation<br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/reference/synchronous-rest-api-guide
-
-- Custom Translator<br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
 
 ## Python notebooks
 1. Azure AI Translator informations
