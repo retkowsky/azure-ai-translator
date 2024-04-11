@@ -70,5 +70,5 @@ https://github.com/orgs/MicrosoftTranslator/repositories
 https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
 <br><br>
 
-10-April-2024
+10-April-2024 - Updated 11-April-2024
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
