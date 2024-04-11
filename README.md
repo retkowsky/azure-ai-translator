@@ -10,7 +10,7 @@ Azure AI Translator is a cloud-based machine translation service you can use to 
 <br>
 <img src="webapp2.jpg">
 
-## Notebooks
+## Python notebooks
 1. Azure AI Translator informations
 <a href="1 Azure AI Translator informations.ipynb">Notebook</a>
 
