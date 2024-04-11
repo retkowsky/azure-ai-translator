@@ -5,12 +5,10 @@ Azure AI Translator is a cloud-based machine translation service you can use to 
 ## An exemple of a custom webapp for text translation:
 <br>
 <img src="webapp1.jpg">
-<br><br>
 
 ## An exemple of a custom webapp for document translation:
 <br>
 <img src="webapp2.jpg">
-<br><br>
 
 ## Azure AI features
 
