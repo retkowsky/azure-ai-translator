@@ -41,7 +41,7 @@ Note: you need to update the **azure.env** file with your Azure AI Translator in
 
 ## An exemple of a custom webapp for vocal translation
 <br>
-<img src="webapp3.jpg">
+<img src="webapp4.jpg">
 
 ## Azure AI features
 
