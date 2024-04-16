@@ -29,7 +29,7 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 8. Vocal Translator using speech to text and text to Speech with Azure Speech Services
 <a href="8 Vocal Translator using Azure AI STT.ipynb">Notebook</a>
 <br><br>
-Note: you need to update the **azure.env** file with your Azure AI Translator informations.
+> Note: you need to update the **azure.env** file with your Azure AI Translator informations.
 
 ## 2. Some webapp screenshots
 
