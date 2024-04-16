@@ -26,6 +26,8 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 <a href="6 Synchronous Document Translation.ipynb">Notebook</a>
 7. Vocal Translator using Azure AI
 <a href="7 Vocal Translator using Azure AI.ipynb">Notebook</a>
+8. Vocal Translator using speech to text and text to Speech with Azure Speech Services
+<a href="8 Vocal Translator using Azure AI STT.ipynb">Notebook</a>
 <br><br>
 Note: you need to update the **azure.env** file with your Azure AI Translator informations.
 
