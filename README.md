@@ -9,7 +9,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support<
 Containers are available for Azure AI Translator.<br><br>
 Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br>
 
-<img src="Translation.png">
+<img src="Translation.png" width=200>
 
 ## Python notebooks
 1. Azure AI Translator informations
