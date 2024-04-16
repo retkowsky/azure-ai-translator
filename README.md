@@ -11,7 +11,7 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 
 <img src="Translation.png" width=200>
 
-## Python notebooks
+## 1. Python demos notebooks
 1. Azure AI Translator informations
 <a href="1 Azure AI Translator informations.ipynb">Notebook</a>
 2. Language detection
@@ -31,19 +31,19 @@ Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br
 <br><br>
 Note: you need to update the **azure.env** file with your Azure AI Translator informations.
 
-## An exemple of a custom webapp for text translation
+### An exemple of a custom webapp for text translation
 <br>
 <img src="webapp1.jpg">
 
-## An exemple of a custom webapp for document translation
+### An exemple of a custom webapp for document translation
 <br>
 <img src="webapp2.jpg">
 
-## An exemple of a custom webapp for vocal translation
+### An exemple of a custom webapp for vocal translation
 <br>
 <img src="webapp4.jpg">
 
-## Azure AI features
+## 2. Azure AI features
 
 ### 1. Text Translation
 Execute text translation between supported source and target languages in real time. Create a dynamic dictionary and learn how to prevent translations using the Translator API.
@@ -65,25 +65,27 @@ Build customized models to translate domain- and industry-specific language, ter
 <br><br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
 
-## Documentation
+## 3. Documentation
+
+### Azure AI Translator documentation
 https://learn.microsoft.com/en-us/azure/ai-services/translator/
 
-## Language support
+### Language support
 https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
 
-## Pricing
+### Pricing
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/
 
-## What's new
+### What's new
 https://learn.microsoft.com/en-us/azure/ai-services/translator/whats-new?tabs=csharp
 
-## Windows application
+### Windows application
 https://github.com/MicrosoftTranslator/DocumentTranslation/releases
 
-## Repositories
+### Repositories
 https://github.com/orgs/MicrosoftTranslator/repositories
 
-## FAQ
+### FAQ
 https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
 <br><br>
 
