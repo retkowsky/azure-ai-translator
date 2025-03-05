@@ -5,7 +5,7 @@
 The service uses modern **neural machine translation technology**.<br><br>
 This service can do **asynchronous batch document translation** and **synchronous document translation.**<br>
 The **Custom Translator interface** allows you to use your translation memory to create **customized neural translation systems**. The customized translation system can be used to translate text and documents with the Translator service.<br><br>
-More than 100 languages are recognized:<br>
+More than 135 languages are recognized:<br>
 https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support<br><br>
 Containers are available for Azure AI Translator.<br><br>
 Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br>
@@ -90,5 +90,5 @@ https://github.com/orgs/MicrosoftTranslator/repositories
 https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
 <br><br>
 
-10-April-2024 - Updated 26-April-2024<br>
+10-April-2024 - Updated 05-March-2025<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
