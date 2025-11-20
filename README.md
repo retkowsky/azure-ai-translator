@@ -1,94 +1,107 @@
-# Azure AI Translator demos
-<img src="Translation.png" width=200>
+# Azure AI Translator: Demos & Professional Notebooks
 
-**Azure AI Translator** is a cloud-based machine translation service you can use to translate text and documents with a **simple REST API call**.<br>
-The service uses modern **neural machine translation technology**.<br><br>
-This service can do **asynchronous batch document translation** and **synchronous document translation.**<br>
-The **Custom Translator interface** allows you to use your translation memory to create **customized neural translation systems**. The customized translation system can be used to translate text and documents with the Translator service.<br><br>
-More than 135 languages are recognized:<br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support<br><br>
-Containers are available for Azure AI Translator.<br><br>
-Website: https://azure.microsoft.com/en-us/products/ai-services/ai-translator<br>
+<img src="Translation.png" width="200" alt="Azure AI Translator Logo">
 
-## 1. Python demos notebooks
-1. Azure AI Translator informations
-<a href="1 Azure AI Translator informations.ipynb">Notebook</a>
-2. Language detection
-<a href="2 Language detection.ipynb">Notebook</a>
-3. Transliterate example
-<a href="3 Transliterate example.ipynb">Notebook</a>
-4. Translation
-<a href="4 Translation.ipynb">Notebook</a>
-5. Document translation batch
-<a href="5 Document translation batch.ipynb">Notebook</a>
-6. Synchronous Document Translation
-<a href="6 Synchronous Document Translation.ipynb">Notebook</a>
-7. Vocal Translator using Azure AI
-<a href="7 Vocal Translator using Azure AI.ipynb">Notebook</a>
-8. Vocal Translator using speech to text and text to Speech with Azure Speech Services
-<a href="8 Vocal Translator using Azure AI STT.ipynb">Notebook</a>
-<br><br>
-> Note: you need to update the **azure.env** file with your Azure AI services informations.
+**Azure AI Translator** is a robust, cloud-based neural machine translation service providing fast, accurate text and document translations in 135+ languages. Easily integrate real-time or batch translation directly into your applications using simple REST APIs. Take translation further with advanced features like custom translation models and containerized deployments for full control.
 
-## 2. Some webapp screenshots
+---
 
-### An exemple of a custom webapp for text translation
-<br>
-<img src="webapp1.jpg">
+## 🚀 Key Features
 
-### An exemple of a custom webapp for document translation
-<br>
-<img src="webapp2.jpg">
+- **Fast, Accurate Translation:** Leverages state-of-the-art neural machine translation for superior quality.
+- **Text and Document Translation:** Translating both structured and unstructured data, synchronously or in batch/asynchronous modes.
+- **Custom Translator:** Tailor models using your translation memory and domain-specific data for optimal results.
+- **Automated Language Detection & Transliteration:** Detect languages and convert between scripts automatically.
+- **Vocal & Speech Integration:** Combine with Azure Speech Services for end-to-end voice translation pipelines.
+- **Containers Support:** Deploy locally or at the edge for regulatory or latency requirements.
 
-### An exemple of a custom webapp for vocal translation
-<br>
-<img src="webapp4.jpg">
+Explore the official documentation for the full feature set:  
+https://azure.microsoft.com/en-us/products/ai-services/ai-translator
 
-## 3. Azure AI features
+---
+
+## 📓 Python Demo Notebooks
+
+Learn and prototype using a comprehensive set of Jupyter notebooks:
+
+1. **Service Overview:**  
+   [Azure AI Translator informations.ipynb](1%20Azure%20AI%20Translator%20informations.ipynb)
+2. **Language Detection:**  
+   [Language detection.ipynb](2%20Language%20detection.ipynb)
+3. **Transliteration Examples:**  
+   [Transliterate example.ipynb](3%20Transliterate%20example.ipynb)
+4. **Text Translation:**  
+   [Translation.ipynb](4%20Translation.ipynb)
+5. **Batch Document Translation:**  
+   [Document translation batch.ipynb](5%20Document%20translation%20batch.ipynb)
+6. **Synchronous Document Translation:**  
+   [Synchronous Document Translation.ipynb](6%20Synchronous%20Document%20Translation.ipynb)
+7. **Vocal Translator Using Azure AI:**  
+   [Vocal Translator using Azure AI.ipynb](7%20Vocal%20Translator%20using%20Azure%20AI.ipynb)
+8. **Voice Translation with Azure Speech Services:**  
+   [Vocal Translator using Azure AI STT.ipynb](8%20Vocal%20Translator%20using%20Azure%20AI%20STT.ipynb)
+
+> **Note:**  
+> Please update the `azure.env` file with your Azure AI Services credentials to run the demos.
+
+---
+
+## 🖥️ Web Application Examples
+
+- **Text Translation Webapp:**  
+  <img src="webapp1.jpg" alt="Text Translation Webapp Screenshot">
+
+- **Document Translation Webapp:**  
+  <img src="webapp2.jpg" alt="Document Translation Webapp Screenshot">
+
+- **Vocal Translation Webapp:**  
+  <img src="webapp4.jpg" alt="Vocal Translation Webapp Screenshot">
+
+---
+
+## 🔥 Azure AI Translator Highlights
 
 ### Text Translation
-Execute text translation between supported source and target languages in real time. Create a dynamic dictionary and learn how to prevent translations using the Translator API.
-<br><br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/text-translation-overview
+Translate text between over 135 languages in real time. Supports custom dictionaries and translation exclusions.
+- Docs: https://learn.microsoft.com/en-us/azure/ai-services/translator/text-translation-overview
 
 ### Asynchronous Batch Document Translation
-Translate batch and complex files while preserving the structure and format of the original documents. Create a glossary to use with document translation. The batch translation process requires an Azure Blob storage account with containers for your source and translated documents.
-<br><br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/overview
+Automate translations for large-scale and complex documents while preserving original structure and formatting. Glossary support included.
+- Docs: https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/overview
 
-### Synchronous Document translation
-Translate a single document file alone or with a glossary file while preserving the structure and format of the original document. The file translation process doesn't require an Azure Blob storage account. The final response contains the translated document and is returned directly to the calling client.
-<br><br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/reference/synchronous-rest-api-guide
+### Synchronous Document Translation
+Quickly translate single documents (no blob storage required). Optional glossary support.
+- Docs: https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/reference/synchronous-rest-api-guide
 
 ### Custom Translator
-Build customized models to translate domain- and industry-specific language, terminology, and style. Create a dictionary (phrase or sentence) for custom translations.
-<br><br>
-https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
+Train and deploy translation models customized to your domain, terminology, and style.
+- Docs: https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview
 
-## 4. Documentation and links
+---
 
-### Azure AI Translator documentation
-https://learn.microsoft.com/en-us/azure/ai-services/translator/
+## 📚 Additional Documentation & Resources
 
-### Language support
-https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
+- [Azure AI Translator documentation](https://learn.microsoft.com/en-us/azure/ai-services/translator/)
+- [Language Support List](https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support)
+- [Service Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/)
+- [What’s New](https://learn.microsoft.com/en-us/azure/ai-services/translator/whats-new?tabs=csharp)
+- [Official Windows Application](https://github.com/MicrosoftTranslator/DocumentTranslation/releases)
+- [MicrosoftTranslator Repositories](https://github.com/orgs/MicrosoftTranslator/repositories)
+- [Translator FAQ](https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq)
 
-### Pricing
-https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator/
+---
 
-### What's new
-https://learn.microsoft.com/en-us/azure/ai-services/translator/whats-new?tabs=csharp
+## 📝 Getting Started
 
-### Windows application
-https://github.com/MicrosoftTranslator/DocumentTranslation/releases
+1. Clone this repository.
+2. Update the `azure.env` file with your Azure subscription and Translator credentials.
+3. Open and explore the notebooks in your preferred Python & Jupyter environment.
 
-### Repositories
-https://github.com/orgs/MicrosoftTranslator/repositories
+---
 
-### FAQ
-https://learn.microsoft.com/en-us/azure/ai-services/translator/translator-faq
-<br><br>
+## 📅 Project Info
 
-10-April-2024 - Updated 05-March-2025<br>
-Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+- **Created:** 10-April-2024
+- **Updated:** 20-November-2025
+- **Author:** Serge Retkowsky  
+- [LinkedIn](https://www.linkedin.com/in/serger/) | serge.retkowsky@microsoft.com
